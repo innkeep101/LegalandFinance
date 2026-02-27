@@ -1,0 +1,120 @@
+# SKIMS Body, Inc. — Legal Obligations & Rights Reference
+**February 27, 2026 | Personal Legal Reference**
+
+> Compact reference for what Evan is bound to from the SKIMS separation. Designed for AI project context and personal decision-making. Not legal advice.
+
+---
+
+## Separation Overview
+
+| Field | Detail |
+|---|---|
+| Employer | SKIMS Body, Inc. |
+| Hire Date | December 12, 2022 |
+| Hired Title | Technical Project Manager (reporting to Sam Browning) |
+| Final Title | Product Manager, Internal Tools (confirmed updated in UKG) |
+| Base Salary | $180,000/year ($14,688 = 4 weeks gross) |
+| Termination Date | June 11, 2025 |
+| Official Reason on File | Voluntary quit (updated in UKG + Notice to Employee form) |
+| Actual Circumstances | Terminated for cause (lunch incident), reclassified to voluntary resignation as part of severance negotiation |
+| Severance | $14,688.00 (4 weeks, pre-tax) |
+| Release Signed | June 25, 2025 (DocuSign ID: 36D3670B-100C-49C1-A54D-4BC2E61126B4) |
+| Benefits End | June 30, 2025 (medical) |
+| Reference Letter | Received from Devin Miller, CTO (July 8, 2025). Title listed as Technical Project Manager — Evan requested correction to include Product Manager, Internal Tools. Correction unconfirmed. |
+
+---
+
+## Binding Agreements
+
+Three agreements govern Evan's legal obligations to SKIMS. All remain in force.
+
+### 1. Separation Agreement & General Release
+
+**Signed:** June 25, 2025 via DocuSign
+
+**What was released:** Complete release of all claims against SKIMS and all "Released Parties" (SKIMS plus all parent companies, subsidiaries, affiliates, and their past/present members, agents, employees, consultants, officers, directors, owners, advisors, accountants, attorneys, managers, and representatives). Covers any act or omission before June 25, 2025.
+
+**Specific statutes waived:** Title VII, California FEHA, California Labor Code, California Equal Pay Act, all federal/state/local employment laws, CA Industrial Welfare Commission wage orders, breach of contract, breach of good faith and fair dealing, fraud, fraudulent inducement, tort claims, public policy violations, constitutional rights claims, all benefits claims (severance, bonus, pension, retirement, vacation, stock options, insurance), disability claims, health cost reimbursement.
+
+**§1542 waiver:** California Civil Code §1542 expressly waived — release covers unknown claims that existed at time of signing, even if discovered later.
+
+**Non-disparagement:** Agreed to "maintain and uphold the name and professional reputation of the Released Parties" and to "refrain from directly or indirectly making any statements, to any person or entity, about the Released Parties, whether intentionally or negligently, which would place them in a bad light or disparage or denigrate their reputation and good name." Covers both intentional and negligent statements.
+
+**What was preserved:**
+- Right to file claims or participate in investigations by the EEOC, NLRB, OSHA, SEC, or any government agency — including providing documents or information without notice to SKIMS
+- Right to receive monetary awards from government-administered whistleblower programs (OSHA, SEC §21F, etc.)
+- Any rights that cannot lawfully be waived by agreement under California or federal law
+
+### 2. Employee Confidentiality Agreement
+
+**Signed:** On or about December 12, 2022 (during Gusto onboarding)
+
+**Status:** Survives termination indefinitely. The release explicitly states this agreement "shall remain in full force and effect following the ending of your employment."
+
+**⚠️ Evan does not have a copy of this agreement.** The specific terms (scope of confidential information, duration, non-compete/non-solicit provisions if any) are unknown. Assume broad scope until the actual document is retrieved.
+
+### 3. Arbitration Agreement
+
+**Signed:** On or about December 12, 2022 (same Gusto onboarding)
+
+**Status:** Survives termination indefinitely. Same explicit survival language as the confidentiality agreement. Any dispute with SKIMS goes to binding arbitration, not court.
+
+**⚠️ Evan does not have a copy of this agreement.** Same retrieval priority as the confidentiality agreement.
+
+---
+
+## Practical Decision Guide
+
+### What Evan Cannot Do
+
+1. **Publicly disparage SKIMS, its leadership, or any current/former employee.** This includes social media, streams, podcasts, interviews, conversations that could be repeated, or any public or semi-public forum. The clause covers both intentional and negligent statements.
+
+2. **Sue SKIMS or any Released Party for anything that happened before June 25, 2025.** The release is total — known claims, unknown claims, foreseen and unforeseen. The §1542 waiver closes the door on future discoveries.
+
+3. **Disclose SKIMS confidential information.** The confidentiality agreement survives. Without the actual document, assume broad scope: trade secrets, proprietary systems, internal processes, financial data, customer data, vendor relationships, strategic plans. Do not share specifics about Apollo, Watchtower, Lighthouse, or any internal tools — the architecture and implementation details belong to SKIMS.
+
+4. **Describe the termination as a firing in any professional or public context.** The official record says voluntary resignation. Contradicting this publicly could trigger the non-disparagement clause and undermine the negotiated reclassification.
+
+### What Evan Can Do
+
+1. **Reference SKIMS on resume, LinkedIn, and in professional conversations.** Use the title Product Manager, Internal Tools. Describe scope in general terms: project management, cross-functional collaboration, internal tooling, ecommerce infrastructure.
+
+2. **Use the Devin Miller reference letter.** It names Evan as a Technical Project Manager. Title correction to include Product Manager, Internal Tools was requested but confirmation is unverified — check before circulating.
+
+3. **Describe what he built at SKIMS in general, capability-level terms.** For expert network calls and consulting: discuss ecommerce infrastructure patterns, payment integration approaches, CX platform design, and operational tooling as general expertise. Avoid naming proprietary tools, specific vendor contracts, financial metrics, or internal SKIMS data.
+
+4. **File a complaint with the EEOC, NLRB, OSHA, SEC, or any government agency at any time.** The release cannot and does not block this.
+
+5. **Discuss SKIMS on stream or in content — neutrally.** Can say he worked there, describe the role, reference it as professional experience. Cannot say anything negative about the company, its people, or his departure. Keep it factual and brief. When in doubt, say less.
+
+---
+
+## Gray Zones
+
+### Brand Bible & Master Profile
+The project documents (WhoIAm, Brand Bible, Legal & Financial Master) contain detailed narratives about SKIMS — including termination circumstances, the CTO's management style, and Evan's emotional experience there. These currently live in private AI project context. **If any of this language becomes public — in a stream, a video, a blog post, a leaked document — it could violate the non-disparagement clause.** The clause covers negligent disclosure, not just intentional. Treat these documents as privileged.
+
+### Expert Network Calls
+At $399/hour on GLG, AlphaSights, and Guidepoint: discuss patterns, approaches, and general industry knowledge. Do not disclose SKIMS-specific metrics, vendor names, contract terms, or proprietary system details. If a client asks specifically about SKIMS, redirect to general DTC ecommerce patterns.
+
+### The SKIMS Narrative on Stream
+The safest public version: worked there for two and a half years in ecommerce infrastructure, built internal tools, learned a lot, moved on. The richer narrative belongs in private conversations with trusted people. It does not belong on stream, in content, or in any searchable medium.
+
+
+---
+
+## Document Inventory
+
+| Document | Status | Notes |
+|---|---|---|
+| Employment Offer Letter | ✅ In possession | Dated Dec 12, 2022. Signed. |
+| Separation Agreement & Release | ✅ In possession | Signed June 25, 2025 via DocuSign. |
+| Notice to Employee (Change in Relationship) | ✅ In possession | Voluntary quit, effective 6/11/25. Signed 6/24/25. |
+| Reference Letter (Devin Miller, CTO) | ✅ In possession | Received July 8, 2025. Title correction pending. |
+| Confidentiality Agreement | ❌ Not in possession | Signed ~Dec 12, 2022 via Gusto. Still binding. |
+| Arbitration Agreement | ❌ Not in possession | Signed ~Dec 12, 2022 via Gusto. Still binding. |
+| Termination Email Thread (Karis Jones) | ✅ In possession | June 11–July 11, 2025. Full thread preserved. |
+
+---
+
+*Compiled from signed agreements and correspondence. Not legal advice. Last updated February 27, 2026.*
