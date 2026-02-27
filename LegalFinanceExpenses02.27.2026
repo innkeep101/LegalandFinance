@@ -1,0 +1,375 @@
+# Outside Inn Studios, LLC — Legal & Financial Master
+**Updated: February 27, 2026 | Living Document**
+
+> Compact reference for entity status, compliance, financials, and collaborator contracts. Designed for GitHub storage and AI project context.
+
+## Entity
+
+| Field | Value |
+|---|---|
+| Legal Name | Outside Inn Studios, LLC |
+| EIN | 39-3932425 |
+| NY DOS ID | 7690233 |
+| Formation | Aug 20, 2025 (NY, Westchester County) |
+| Owner | Evan I. Werner (100%), Member-Managed |
+| Tax | Disregarded Entity — pass-through to personal (Schedule C) |
+| Address | 9 Pin Oak Lane, White Plains, NY 10606 |
+| Email | innkeep@outsideinn.tv / eiw@eiwerner.com (same inbox) |
+| NAICS | 711510 — Media Entertainment |
+
+## Digital Presence
+
+**Domains:** eiwerner.com · outsideinn.tv
+
+| Platform | Handle | Role |
+|---|---|---|
+| YouTube | EIWerner | Primary — streams, VODs, lo-fi loop, updates |
+| Twitch | eiwerner | Secondary — simulcast, gaming |
+| Instagram | e.i.werner | Repurposed clips |
+| TikTok | e.i.werner | Repurposed clips |
+| Threads | e.i.werner | Repurposed clips |
+| X | eiwerner | Repurposed clips |
+| Blue Sky | e.i.werner | Repurposed clips |
+| Kick | eiwerner | Passive |
+| Rumble | eiwerner | Passive |
+| Substack | eiwerner | Newsletter (TBD) |
+
+## Compliance
+
+| Item | Status |
+|---|---|
+| Articles of Organization | ✅ Filed Aug 20, 2025 |
+| Operating Agreement | ✅ Executed Aug 25, 2025 |
+| EIN | ✅ 39-3932425 (Aug 23, 2025) |
+| NY Tax TR-570 | ✅ Submitted Sep 26, 2025 |
+| Publication (§206) | ✅ Complete — National Herald + Westchester Journal News (Oct 25–Dec 1, 2025) |
+| Certificate of Publication | ⏳ File with NY DOS |
+| Trademark "OUTSIDE INN" | ⏳ In examination — Serial #99627141, Class 041, Filed Feb 1, 2026 (ITU). Filed under Evan Werner individually — consider assignment to LLC. |
+| Business Bank Account | ✅ Mercury active ($15,500 funded: $10k Aug, $500 Nov, $5k Feb) |
+| NY Biennial Statement | Due every 2 years from Aug 2025 |
+
+## Outstanding Actions
+
+- [ ] File Certificate of Publication with NY DOS
+- [ ] Confirm TR-570 receipt by NY Tax Department
+- [ ] Monitor trademark at tsdr.uspto.gov (#99627141) — every 3–4 months
+- [ ] Consider trademark assignment: individual → LLC
+- [ ] Finalize Carson contract (music delivered, business terms need closure)
+- [ ] Sign Marwan contract (revised draft on DocuSign Feb 25)
+- [ ] Sign Luiz contract (revised draft on DocuSign Feb 25 — $729.49 new deliverables)
+- [ ] Consider S-Corp election if recurring revenue grows
+
+## 2025 Business Expenses
+
+**Total: $10,628.61 USD** + €451.29 EUR + R$380.57 BRL
+
+| Category | USD | Notes |
+|---|---|---|
+| Music Development | $2,800.00 | Carson $2,000 + Paul Hinkes $800 (8 sessions) |
+| Art & Brand | $2,666.15 | + €451.29 EUR + R$380.57 BRL |
+| Software & Subscriptions | $1,510.96 | |
+| Hardware & Equipment | $3,651.50 | |
+
+### Music — $2,800.00
+
+| Date | Payee | Description | Amount | Tx ID |
+|---|---|---|---|---|
+| Aug 20 | Carson Thatcher | OI LoFi music (pt 1, 2k limit) | $2,000.00 | 25919089782 |
+| Sep 11 | Paul Hinkes | Music refinement/training | $100.00 | 4K160127AL698743D |
+| Sep 20 | Paul Hinkes | Music training/consulting | $100.00 | 1HX886220N446101L |
+| Oct 2 | Paul Hinkes | Music training/consulting | $100.00 | 1X286326GE7770317 |
+| Oct 26 | Paul Hinkes | Training/refinement | $100.00 | 4X1948893F472605V |
+| Oct 31 | Paul Hinkes | Refinement/training/consulting | $100.00 | 4B394563JW8481825 |
+| Nov 18 | Paul Hinkes | Training 2x (11/04 & 11/12) | $200.00 | 2XA50900XY728041C |
+| Nov 20 | Paul Hinkes | Training/refinement | $100.00 | 33N99296AW700823N |
+
+### Art & Brand — $2,666.15 USD + €451.29 EUR + R$380.57 BRL
+
+**PayPal/Traditional:**
+
+| Date | Payee | Description | Amount | Tx ID |
+|---|---|---|---|---|
+| Aug 3 | Barbara M.L. Carrozza | Pixel Art Services | $100.00 | 5UK164051R807281N |
+| Aug 7 | Jean-Luc Emorine | MOTHER Hieroglyphics finalist | $50.00 (€41.13) | — |
+| Aug 29 | Lucie Emorine | MOTHER Hieroglyphics 1/2 | $550.00 | 8L983351F07359420 |
+| Aug 29 | Jean-Luc Emorine | MOTHER Hieroglyphics 1/2 | €451.29 | 6VH6717253758813W |
+| Sep 8 | Barbara M.L. Carrozza | Pixel Art Animation | $500.00 | 5KT8379555738663Y |
+| Nov 13 | Luiz H.M. Silva | Logo development | R$151.62 | 8V3264423J265240B |
+| Nov 17 | Luiz H.M. Silva | Logo dev pt II/II | R$101.23 | 41945157F9611771X |
+| Dec 1 | Luiz H.M. Silva | Logo dev + bonus | R$127.72 | 3CB12555PG688192K |
+
+**Solana (Marwan):**
+
+| Date | Description | USD | SOL | Tx Hash |
+|---|---|---|---|---|
+| Aug 8 | Pixel Art commission | $125.02 | 0.7028 | 2dtAmy...PDCrkf |
+| Aug 23 | LoFi Sketch II | $125.02 | 0.6164 | 4nQ6aE...Mj4zpE |
+| Aug 23 | Color illustration 1/2 | $325.02 | 1.6102 | 5sAifq...qUv5bJ |
+| Oct 17 | Pixel Art Refinement | $200.02 | 1.0918 | 55vJkj...W8ApAk |
+| Oct 20 | Pixel Art Refinement | $20.02 | 0.1053 | 4kcoiL...YbPmws |
+| Nov 6 | Pixel art services | $250.02 | 1.6012 | 4optws...sFR2SV |
+| Dec 12 | Pixel art refinement | $120.01 | 0.8840 | 3L8Mbp...U4uw5T |
+| Dec 19 | SOL payment (no note) | $50.01 | 0.3941 | 2VcFJx...XpwiWF |
+| Dec 31 | Logo Dev 1/2 | $250.01 | 2.0031 | 5LyfxV...v3yZda |
+
+**Vendors:** Barbara (Pixel Art): $600 · Emorine (MOTHER Hieroglyphics): $600 + €451.29 · Luiz (Logo): R$380.57 · Marwan (SOL): $1,466.15
+
+### Software & Subscriptions — $1,510.96
+
+| Date | Vendor | Description | Amount | Receipt |
+|---|---|---|---|---|
+| Sep 2 | xAI | SuperGrok annual (→Sep 2026) | $300.00 | 2896-3782 |
+| Sep 8 | Notion | Recurring plan (OI workspace) | $780.30 | G9BUBQMC-0003 |
+| Nov 21 | Anthropic | Claude Max 5x | $108.38 | 2283-4137-2109 |
+| Nov 29 | ExpressVPN | VPN subscription | $105.91 | — |
+| Nov 29 | Speedify | Unlimited 3-Year (→Nov 2028) | $107.99 | 494187 |
+| Dec 21 | Anthropic | Claude Max 5x | $108.38 | 2041-9602-8901 |
+
+### Hardware & Equipment — $3,651.50
+
+| Date | Item | Price |
+|---|---|---|
+| Nov 26 | GIGABYTE AERO X16 (RTX 5070, 32GB) | $1,463.05 |
+| Nov 26 | Laptop Protection Plan (2yr) | $173.39 |
+| Nov 26 | NETGEAR Nighthawk M7 Pro 5G Hotspot | $307.53 |
+| Nov 26 | GL.iNet Flint 2 WiFi 6 Router | $112.99 |
+| Nov 26 | ASUS ZenScreen 15.6" Portable Monitor | $149.00 |
+| Nov 26 | Router Protection Plan (4yr) | $57.43 |
+| Nov 28 | Blue Yeti Nano USB Mic | $65.01 |
+| Nov 28 | Sony WH-1000XM5 Headphones | $268.77 |
+| Nov 28 | SanDisk 2TB Extreme SSD | $169.99 |
+| Nov 28 | Samsung T9 2TB SSD | $179.99 |
+| Nov 28 | Anker 737 Power Bank (140W, 24k mAh) | $74.99 |
+| Nov 28 | 4G LTE Antenna 8dBi (2-pack) | $12.99 |
+| Nov 28 | TalentCell Mini UPS (27k mAh) | $51.19 |
+| Nov 28 | ELECOM NESTOUT Power Bank | $56.99 |
+| Nov 28 | KLIM Wind Cooling Pad | $18.48 |
+| Nov 28 | USB-C to Ethernet Adapter | $8.49 |
+| Dec 1 | Elgato Stream Deck + | $159.99 |
+| Dec 1 | Elgato Key Light Neo | $59.99 |
+| Dec 1 | Anker 100W USB-C Charger (3-port) | $49.99 |
+| Dec 1 | SanDisk 256GB Extreme microSD | $27.99 |
+| Dec 1 | Anker USB-C Hub (7-in-1) | $25.00 |
+| Dec 1 | Anker Prime USB-C Cable (240W) | $24.49 |
+| Dec 4 | Razer Blackshark USB Transceiver | $37.92 |
+| Dec 11 | Samsung 22" Monitor | $75.85 |
+
+## 2026 Expenses
+
+### Art & Brand
+
+**Marwan (SOL):**
+
+| Date | Description | USD | Status |
+|---|---|---|---|
+| Jan 12 | Illustration final | $325.01 | ✅ Paid |
+| Jan 16 | Animation Part 1 | $500.01 | ✅ Paid |
+
+**Other:**
+
+| Date | Description | USD | Status |
+|---|---|---|---|
+| Feb 2026 | Former artist final payment | $400.00 | ✅ Paid |
+
+### Business Capitalization (Personal → Mercury)
+
+| Date | Amount | Running Total |
+|---|---|---|
+| Aug 26, 2025 | $10,000.00 | $10,000 |
+| Nov 18, 2025 | $500.00 | $10,500 |
+| Feb 26, 2026 | $5,000.00 | **$15,500** |
+
+### Athens Deployment
+
+| Date | Description | USD | Status |
+|---|---|---|---|
+| Feb 2026 | Round-trip flights (Emirates + Expedia) | ~$862.00 | ✅ Purchased (pending) |
+| Feb 2026 | Athens rent (first month partial) | $1,000.00 | ✅ Paid |
+
+### 2026 Summary
+
+**Spent YTD:** ~$3,087 (Marwan $825 + former artist $400 + flights ~$862 + rent $1,000)
+
+**Outstanding commitments:**
+
+| Collaborator | Remaining | Details |
+|---|---|---|
+| Marwan | $1,150.00 | Holdt portrait $250, animation $500, polish $250, alerts $150 |
+| Luiz | $729.49 | Portrait $50, overlay $150.15, badges $380.73, poster $148.61 |
+| **Total** | **$1,879.49** | |
+
+## Personal Financial Position (Feb 27, 2026)
+
+| Metric | Value |
+|---|---|
+| Chase Checking (~8083) | ~$30,920 (after pending flights ~$862) |
+| Cash on hand | $1,000+ |
+| OIS Mercury | ~$15,500 funded (less expenses paid from account) |
+| ETH | 7.988 @ ~$2,030 → ~$16,200 |
+| BTC | 0.1225 @ ~$66,000 → ~$8,085 |
+| SOL | 4.846 @ ~$83 → ~$400 |
+| **Total Crypto** | **~$24,700** |
+| **Est. Total Liquid** | **~$52,000–55,000** |
+
+| Context | Value |
+|---|---|
+| Left SKIMS with (Jun 2025) | ~$112,000 ($77k cash, $35k crypto) |
+| Avg monthly (incl. one-time) | ~$7,000/month |
+| Actual living burn (CR/Athens) | ~$20–40/day |
+| OIS total investment | ~$14,500 (2025 $10,629 + 2026 ~$3,087 + $1,879 committed) |
+| Income | Expert network $399/hr (sporadic) + DTC consulting |
+| Revenue target | $3,000/month recurring by Sep 1, 2026 |
+| **Plan** | **Full send → May 31. Job search Jun 1. Stream continues.** |
+| Hard decision | Dec 31, 2026 — remote ecommerce PM job if target not met |
+
+**Burn note:** ~$7k/month avg inflated by Norway/Sweden wedding, Vandy reunion, $10k+ OIS startup, $36k+ crypto (Jan 2025). Athens daily burn comparable to Costa Rica.
+
+**Crypto note:** $36,250+ purchased Jan 2025 → ~$24,700 now. Long-term hold, not trading capital.
+
+## Collaborator Contracts
+
+### Carson Thatcher — Music
+
+| Field | Value |
+|---|---|
+| Delivered | 1hr 40min proprietary lo-fi music loop |
+| Paid (2025) | $2,000 |
+| Status | Business partnership ending, friendship intact. Contract terms still need to go out. |
+| Open | Royalty-free Keeper-tier use; album release rights |
+| Lesson | Don't negotiate over text/email. Lead with relationship. |
+
+### Marwan Hasnaoui — Pixel Art & Animation
+
+| Field | Value |
+|---|---|
+| Paid (2025, SOL) | $1,466.15 |
+| Paid (2026, SOL) | $825.02 |
+| Total paid | $2,291.17 |
+| Remaining | $1,150.00 |
+| Contract | Revised draft on DocuSign Feb 25. Pending signature. |
+| Royalty (revised) | $0.77/unit all merch. Threshold $497.70. Cap $7,700. 14-year term. |
+| IP | Work-for-hire. OIS owns upon payment. Portfolio rights post-release. |
+| Pipeline | Holdt portrait → Animation completion → Polish (3 rounds max) → Stream Alerts |
+
+### Luiz Henrique Medeiros Silva — Illustration, Portraits, Badges
+
+| Field | Value |
+|---|---|
+| Paid (2025, BRL) | R$380.57 |
+| New commitments | $729.49 — Portrait $50, Overlay $150.15, Badges $380.73, Poster $148.61 |
+| Contract | Revised draft on DocuSign Feb 25. Pending signature. |
+| Royalty | $0.77/unit all merch. Threshold $497.70. Cap $4,997.70. 7-year term. |
+| IP | Work-for-hire. OIS owns upon payment. Portfolio rights post-release. |
+| Pipeline | Portrait → Overlay → 777 founding badges → Badge poster |
+
+### Former / Completed
+
+| Name | Role | Paid | Status |
+|---|---|---|---|
+| Paul Hinkes | Music training | $800 (8 sessions) | Complete. Session-based. |
+| Barbara M.L. Carrozza | Pixel Art | $600 | Ended. Replaced by Marwan. |
+| Jean-Luc / Lucie Emorine | MOTHER Hieroglyphics | $600 + €451.29 | Commission complete. |
+
+## Royalty Structure
+
+| Element | Value |
+|---|---|
+| Base unit | $0.77/unit royalty |
+| Deal multiples | $770 |
+| Scrivener | $7.77/month, 7% merch discount |
+| Keeper | $21.21/month, 14% merch discount |
+| System | Septimal (base-7), rooted in ONCE mythology |
+
+### Fourthwall Pricing
+
+| Product | Price | Margin |
+|---|---|---|
+| Coaster | $14.07 | ~57% |
+| Classic Mouse Pad | $21.07 | ~53% |
+| 10×10 Unframed Print | $28.07 | ~62% |
+| Gaming Mouse Pad | $28.07 | ~57% |
+| 18×24 Unframed Print | $42.07 | ~62% |
+| 10×10 Framed Print | $49.07 | ~49% |
+| Desk Mat | $49.49 | ~69% |
+| 18×24 Framed Print | $98.07 | ~56% |
+
+*Desk mat highest margin. $49.49 = 707 × $0.07.*
+
+### Collections (Launch)
+
+All from single Luiz illustration — different crops create distinct lines.
+
+- **"There I"** — Aspirational landscape frames. Standard pricing.
+- **"There II"** — Second set of frames, different crops.
+- **Goose Series** — Individual 10×10 goose crops. Unframed $28.07 / Framed $49.07.
+- **Prelaunch Exclusives** — Select items available only during prelaunch. Gone permanently after.
+
+## Key Contacts
+
+| Name | Role | Notes |
+|---|---|---|
+| Carson Thatcher | Music | OI lo-fi loop. Business ending, friendship intact. |
+| Marwan Hasnaoui | Pixel art & animation | Morocco. Contract pending. |
+| Luiz H.M. Silva | Illustration, portraits, badges | Brazil. Contract pending. |
+| Paul Hinkes | Music training | 8 sessions 2025. Complete. |
+| John Burnham | Manager (Marathon) | WME-connected. |
+| Ethan Harari | Manager | |
+| Brendan Deneen | Literary agent (former) | Represented The Keeper. |
+| Ravi Gupta | Analog workshop | Lost Debate podcast. Free enrollment. |
+
+## Hardware & Infrastructure
+
+**Deployment:** Athens, Greece ~Mar 11–May 15, 2026. Flatio booking (195/19 Mbps). Flights purchased. First month rent paid ($1,000).
+
+**Streaming:** GIGABYTE AERO X16 (RTX 5070, 32GB) → OBS/NVENC · ASUS ZenScreen 15.6" · Elgato Stream Deck + · Elgato Key Light Neo · Blue Yeti Nano · Sony WH-1000XM5 · KLIM Cooling Pad
+
+**Camera:** GoPro HERO13 Black + accessories
+
+**Storage:** SanDisk 2TB SSD (primary) · Samsung T9 2TB SSD (backup) · microSD 256GB + 64GB
+
+**Internet:** GL.iNet GL-MT6000 (dual-WAN) · Netgear M7 Pro 5G (backup) · Bingfu MIMO Antenna · USB-C Ethernet · Speedify (bonding)
+
+**Power:** Anker 737 24k mAh (laptop) · TalentCell Mini UPS (router) · ELECOM NESTOUT 15k mAh
+
+**Charging:** Anker 100W 3-Port · 7-in-1 Hub · Prime 240W Cable
+
+**Travel:** Tortuga Pro 40L · Alpaka Elements Tech Case · Cable Lock · ABUS Padlocks
+
+**Software:** OBS Studio (NVENC) · Restream · Speedify · ExpressVPN
+
+**OBS Scenes:** Warmup (animation + music 100%) → Writing (facecam + Notion, music 20–30%) → Gaming (facecam + game) → Cooldown (animation + music 100%) → Ambient Loop (offline). One-button via Stream Deck.
+
+**Uptime:** 99.9% target — wired primary + 5G failover + Speedify bonding + battery backup.
+
+## Tech & Operational Advantage
+
+Evan's background eliminates contractor needs for ecommerce, streaming infra, analytics, and tooling — saving est. $2,000–5,000/month vs. non-technical founder.
+
+- **Ecommerce:** 8+ payment types at SKIMS, OMS/ERP/WMS architecture, 600k+ order-day scale build-vs-buy decisions
+- **Streaming:** Full OBS/Restream/Speedify stack self-configured. 99.6% uptime experience at SKIMS peak events.
+- **Data:** Built Watchtower (CFO dashboard), Apollo (CX platform, 94% error reduction), Lighthouse (retail ops)
+- **AI:** Netomi chatbot (16% ticket reduction), GitHub Copilot knowledge base (18% faster engineering)
+- **Agile:** Scrum from scratch at SKIMS, team ~5→40+, Jira for 116 users, 3 Notion workspaces → 1
+- **Expert networks:** GLG, AlphaSights, Guidepoint at $399/hr — same expertise deployed on OIS at zero cost
+
+## Documents
+
+| Document | Status |
+|---|---|
+| Articles of Organization | ✅ |
+| Operating Agreement | ✅ |
+| EIN Confirmation | ✅ |
+| TR-570 | ✅ |
+| Publication Affidavits | ✅ |
+| Certificate of Publication | ⏳ |
+| Trademark #99627141 | ⏳ In Examination |
+| 2025 Expense Ledger | ✅ |
+| Carson Contract | ⏳ Terms need to go out |
+| Marwan Contract | ⏳ DocuSign Feb 25 — pending signature |
+| Luiz Contract | ⏳ DocuSign Feb 25 — pending signature |
+| Expert Network Master | ✅ |
+| Lo-Fi Revenue Estimate | ✅ (Feb 26, 2026) |
+
+---
+
+*Updated Feb 27, 2026. Source: OIStudiosLegal02.21.2026, EIW2025Expenses, Luiz/Marwan revised contracts (Feb 25), Chase account analysis (Feb 27).*
