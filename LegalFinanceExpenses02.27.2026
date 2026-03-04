@@ -1,5 +1,5 @@
 # Outside Inn Studios, LLC — Legal & Financial Master
-**Updated: February 27, 2026 | Living Document**
+**Updated: March 3, 2026 | Living Document**
 
 > Compact reference for entity status, compliance, financials, and collaborator contracts. Designed for GitHub storage and AI project context.
 
@@ -23,7 +23,7 @@
 
 | Platform | Handle | Role |
 |---|---|---|
-| YouTube | EIWerner | Primary — streams, VODs, lo-fi loop, updates |
+| YouTube | EIWerner | Primary — streams, VODs, 70:07 bookends, update videos |
 | Twitch | eiwerner | Secondary — simulcast, gaming |
 | Instagram | e.i.werner | Repurposed clips |
 | TikTok | e.i.werner | Repurposed clips |
@@ -54,10 +54,12 @@
 - [ ] Confirm TR-570 receipt by NY Tax Department
 - [ ] Monitor trademark at tsdr.uspto.gov (#99627141) — every 3–4 months
 - [ ] Consider trademark assignment: individual → LLC
-- [ ] Finalize Carson contract (music delivered, business terms need closure)
-- [ ] Sign Marwan contract (revised draft on DocuSign Feb 25)
-- [ ] Sign Luiz contract (revised draft on DocuSign Feb 25 — $729.49 new deliverables)
+- [ ] Finalize Carson album deal (negotiation target: Apr 4, 2026)
+- [ ] Sign Marwan contract (revised draft on DocuSign Feb 25 — pending signature)
+- [x] Sign Luiz contract — ✅ Signed Mar 2, 2026. First collaborator contract fully executed.
 - [ ] Consider S-Corp election if recurring revenue grows
+- [ ] Add missing 2026 recurring software expenses (Claude Max Jan/Feb, Restream ~$16/mo, DigitalOcean VPS ~$6/mo) — see Software & Subscriptions note
+- [ ] Confirm whether Elgato Facecam MK.2, GoPro HERO13 + accessories, and Razer Naga were personal purchases or missing from expense ledger
 
 ## 2025 Business Expenses
 
@@ -127,32 +129,32 @@
 
 ### Hardware & Equipment — $3,651.50
 
-| Date | Item | Price |
-|---|---|---|
-| Nov 26 | GIGABYTE AERO X16 (RTX 5070, 32GB) | $1,463.05 |
-| Nov 26 | Laptop Protection Plan (2yr) | $173.39 |
-| Nov 26 | NETGEAR Nighthawk M7 Pro 5G Hotspot | $307.53 |
-| Nov 26 | GL.iNet Flint 2 WiFi 6 Router | $112.99 |
-| Nov 26 | ASUS ZenScreen 15.6" Portable Monitor | $149.00 |
-| Nov 26 | Router Protection Plan (4yr) | $57.43 |
-| Nov 28 | Blue Yeti Nano USB Mic | $65.01 |
-| Nov 28 | Sony WH-1000XM5 Headphones | $268.77 |
-| Nov 28 | SanDisk 2TB Extreme SSD | $169.99 |
-| Nov 28 | Samsung T9 2TB SSD | $179.99 |
-| Nov 28 | Anker 737 Power Bank (140W, 24k mAh) | $74.99 |
-| Nov 28 | 4G LTE Antenna 8dBi (2-pack) | $12.99 |
-| Nov 28 | TalentCell Mini UPS (27k mAh) | $51.19 |
-| Nov 28 | ELECOM NESTOUT Power Bank | $56.99 |
-| Nov 28 | KLIM Wind Cooling Pad | $18.48 |
-| Nov 28 | USB-C to Ethernet Adapter | $8.49 |
-| Dec 1 | Elgato Stream Deck + | $159.99 |
-| Dec 1 | Elgato Key Light Neo | $59.99 |
-| Dec 1 | Anker 100W USB-C Charger (3-port) | $49.99 |
-| Dec 1 | SanDisk 256GB Extreme microSD | $27.99 |
-| Dec 1 | Anker USB-C Hub (7-in-1) | $25.00 |
-| Dec 1 | Anker Prime USB-C Cable (240W) | $24.49 |
-| Dec 4 | Razer Blackshark USB Transceiver | $37.92 |
-| Dec 11 | Samsung 22" Monitor | $75.85 |
+| Date | Item | Price | Notes |
+|---|---|---|---|
+| Nov 26 | GIGABYTE AERO X16 (RTX 5070, 32GB) | $1,463.05 | |
+| Nov 26 | Laptop Protection Plan (2yr) | $173.39 | |
+| Nov 26 | NETGEAR Nighthawk M7 Pro 5G Hotspot | $307.53 | |
+| Nov 26 | GL.iNet Flint 2 WiFi 6 Router | $112.99 | |
+| Nov 26 | ASUS ZenScreen 15.6" Portable Monitor | $149.00 | Non-streaming productivity monitor (requires USB-C/DP Alt Mode, blocks hub during streams) |
+| Nov 26 | Router Protection Plan (4yr) | $57.43 | |
+| Nov 28 | Blue Yeti Nano USB Mic | $65.01 | |
+| Nov 28 | Sony WH-1000XM5 Headphones | $268.77 | |
+| Nov 28 | SanDisk 2TB Extreme SSD | $169.99 | |
+| Nov 28 | Samsung T9 2TB SSD | $179.99 | |
+| Nov 28 | Anker 737 Power Bank (140W, 24k mAh) | $74.99 | |
+| Nov 28 | 4G LTE Antenna 8dBi (2-pack) | $12.99 | |
+| Nov 28 | TalentCell Mini UPS (27k mAh) | $51.19 | |
+| Nov 28 | ELECOM NESTOUT Power Bank | $56.99 | |
+| Nov 28 | KLIM Wind Cooling Pad | $18.48 | |
+| Nov 28 | USB-C to Ethernet Adapter | $8.49 | |
+| Dec 1 | Elgato Stream Deck + | $159.99 | |
+| Dec 1 | Elgato Key Light Neo | $59.99 | |
+| Dec 1 | Anker 100W USB-C Charger (3-port) | $49.99 | |
+| Dec 1 | SanDisk 256GB Extreme microSD | $27.99 | |
+| Dec 1 | Anker USB-C Hub (7-in-1) | $25.00 | |
+| Dec 1 | Anker Prime USB-C Cable (240W) | $24.49 | |
+| Dec 4 | Razer Blackshark USB Transceiver | $37.92 | |
+| Dec 11 | Samsung 22" Monitor | $75.85 | Purchased but not in active rig — did not work well operationally. Retained as expense line item only. |
 
 ## 2026 Expenses
 
@@ -170,6 +172,16 @@
 | Date | Description | USD | Status |
 |---|---|---|---|
 | Feb 2026 | Former artist final payment | $400.00 | ✅ Paid |
+
+### Software & Subscriptions (2026)
+
+**Known recurring charges not yet itemized below — need receipt/date confirmation:**
+- Claude Max 5x (~$108.38/mo) — Jan + Feb 2026 charges expected
+- Restream Standard (~$16/mo annual) — ongoing since stream setup
+- DigitalOcean VPS (~$6/mo) — 24/7 lo-fi loop host, active since ~Mar 2026
+- Notion — recurring (corrected to solo seat ~$192/yr going forward, down from $780.30 overpaid in 2025)
+
+*Add exact dates, amounts, and receipts as they are confirmed.*
 
 ### Business Capitalization (Personal → Mercury)
 
@@ -234,8 +246,10 @@
 |---|---|
 | Delivered | 1hr 40min proprietary lo-fi music loop |
 | Paid (2025) | $2,000 |
-| Status | Business partnership ending, friendship intact. Contract terms still need to go out. |
-| Open | Royalty-free Keeper-tier use; album release rights |
+| Status | Business partnership ending, friendship intact. Contract sent Mar 1 formalizing ownership and usage terms for delivered loop. Separate album deal offer also sent Mar 1. |
+| Contract | ⏳ Sent Mar 1, 2026. Awaiting signature. |
+| Album negotiation | Target: Apr 4, 2026 |
+| Open | Royalty-free Keeper-tier use; album release rights and terms |
 | Lesson | Don't negotiate over text/email. Lead with relationship. |
 
 ### Marwan Hasnaoui — Pixel Art & Animation
@@ -246,10 +260,11 @@
 | Paid (2026, SOL) | $825.02 |
 | Total paid | $2,291.17 |
 | Remaining | $1,150.00 |
-| Contract | Revised draft on DocuSign Feb 25. Pending signature. |
+| Contract | ⏳ Revised draft on DocuSign Feb 25. Pending signature. |
 | Royalty (revised) | $0.77/unit all merch. Threshold $497.70. Cap $7,700. 14-year term. |
 | IP | Work-for-hire. OIS owns upon payment. Portfolio rights post-release. |
 | Pipeline | Holdt portrait → Animation completion → Polish (3 rounds max) → Stream Alerts |
+| Major delivery (Mar 1–2) | 480 PNG frames of Holdt animation. Evan built final HoldtLoop.mp4 (1h40m, 1920×1080, H.264+AAC, ~1.28GB). Animation ran 11h39m without a drop on Broadcast Alpha day (Mar 3). |
 
 ### Luiz Henrique Medeiros Silva — Illustration, Portraits, Badges
 
@@ -257,10 +272,10 @@
 |---|---|
 | Paid (2025, BRL) | R$380.57 |
 | New commitments | $729.49 — Portrait $50, Overlay $150.15, Badges $380.73, Poster $148.61 |
-| Contract | Revised draft on DocuSign Feb 25. Pending signature. |
+| Contract | ✅ Signed Mar 2, 2026. First collaborator contract fully executed. Includes $0.77/unit royalty on all merch featuring his artwork (7-year term, $4,997.70 cap). |
 | Royalty | $0.77/unit all merch. Threshold $497.70. Cap $4,997.70. 7-year term. |
 | IP | Work-for-hire. OIS owns upon payment. Portfolio rights post-release. |
-| Pipeline | Portrait → Overlay → 777 founding badges → Badge poster |
+| Pipeline | Portrait (~1 day from completion as of Mar 3) → Overlay → 777 founding badges → Badge poster |
 
 ### Former / Completed
 
@@ -304,13 +319,17 @@ All from single Luiz illustration — different crops create distinct lines.
 - **Goose Series** — Individual 10×10 goose crops. Unframed $28.07 / Framed $49.07.
 - **Prelaunch Exclusives** — Select items available only during prelaunch. Gone permanently after.
 
+### Merch Samples — First Impressions (Mar 3, 2026)
+
+Physical samples received on Broadcast Alpha day. **Desk mat:** high quality print but aspect ratio too square — needs wider Fourthwall format. New samples to be ordered for both Outside Inn (Marwan) and illustration (Luiz) collections. **10×10 Framed Print:** image looks blown up, source resolution too low. Luiz now knows required specs — future paintings at higher resolution. Action: formalize minimum DPI/pixel dimension specs for all future commissions.
+
 ## Key Contacts
 
 | Name | Role | Notes |
 |---|---|---|
-| Carson Thatcher | Music | OI lo-fi loop. Business ending, friendship intact. |
-| Marwan Hasnaoui | Pixel art & animation | Morocco. Contract pending. |
-| Luiz H.M. Silva | Illustration, portraits, badges | Brazil. Contract pending. |
+| Carson Thatcher | Music | OI lo-fi loop delivered. Contract sent Mar 1. Album negotiation target Apr 4. |
+| Marwan Hasnaoui | Pixel art & animation | Morocco. 480 PNGs delivered Mar 1–2. Contract pending signature. |
+| Luiz H.M. Silva | Illustration, portraits, badges | Brazil. Contract signed Mar 2. Portrait ~1 day from completion. |
 | Paul Hinkes | Music training | 8 sessions 2025. Complete. |
 | John Burnham | Manager (Marathon) | WME-connected. |
 | Ethan Harari | Manager | |
@@ -319,36 +338,40 @@ All from single Luiz illustration — different crops create distinct lines.
 
 ## Hardware & Infrastructure
 
-**Deployment:** Athens, Greece ~Mar 11–May 15, 2026. Flatio booking (195/19 Mbps). Flights purchased. First month rent paid ($1,000).
+**Deployment:** White Plains, NY → Athens, Greece ~Mar 11–May 15, 2026. Flatio booking (195/19 Mbps). Flights purchased. First month rent paid ($1,000).
 
-**Streaming:** GIGABYTE AERO X16 (RTX 5070, 32GB) → OBS/NVENC · ASUS ZenScreen 15.6" · Elgato Stream Deck + · Elgato Key Light Neo · Blue Yeti Nano · Sony WH-1000XM5 · KLIM Cooling Pad
+**Streaming Core:** GIGABYTE AERO X16 (RTX 5070, 32GB) → OBS/NVENC · Elgato Facecam MK.2 (primary stream camera) · Elgato Stream Deck + (scene switching) · Elgato Key Light Neo · Blue Yeti Nano (voice) · Sony WH-1000XM5 (monitoring) · KLIM Cooling Pad · iPad for chat (WiFi, zero laptop ports used)
 
-**Camera:** GoPro HERO13 Black + accessories
+**Camera (Content/BTS):** GoPro HERO13 Black + accessories
 
 **Storage:** SanDisk 2TB SSD (primary) · Samsung T9 2TB SSD (backup) · microSD 256GB + 64GB
 
-**Internet:** GL.iNet GL-MT6000 (dual-WAN) · Netgear M7 Pro 5G (backup) · Bingfu MIMO Antenna · USB-C Ethernet · Speedify (bonding)
+**Monitors:** ASUS ZenScreen 15.6" (non-streaming productivity monitor — requires USB-C/DP Alt Mode, which conflicts with the Anker hub during streams). Samsung 22" purchased Dec 11 ($75.85) but not in active rig — did not work well operationally.
 
-**Power:** Anker 737 24k mAh (laptop) · TalentCell Mini UPS (router) · ELECOM NESTOUT 15k mAh
+**Internet:** GL.iNet GL-MT6000 (dual-WAN, router-level failover) · Netgear M7 Pro 5G (backup WAN on router WAN2) · Bingfu MIMO Antenna · USB-C Ethernet Adapter. **Note:** Speedify is installed but functionally inactive — current topology has both WANs behind the router, so the laptop sees one LAN interface. Router handles failover directly. For Speedify to work, M7 Pro would need direct USB tethering to laptop as a second physical interface.
 
-**Charging:** Anker 100W 3-Port · 7-in-1 Hub · Prime 240W Cable
+**Power:** Anker 737 24k mAh (laptop + power-only devices like KLIM) · TalentCell Mini UPS (router stack) · ELECOM NESTOUT 15k mAh (emergency)
+
+**Charging:** Anker 100W 3-Port · 7-in-1 Hub (PD passthrough + 2×USB-A + card reader) · Prime 240W Cable
 
 **Travel:** Tortuga Pro 40L · Alpaka Elements Tech Case · Cable Lock · ABUS Padlocks
 
-**Software:** OBS Studio (NVENC) · Restream · Speedify · ExpressVPN
+**Software:** OBS Studio (NVENC) · Restream Standard (~$16/mo, simulcast YouTube + Twitch) · ExpressVPN · DigitalOcean VPS (~$6/mo, available for future 24/7 radio, on standby)
 
-**OBS Scenes:** Warmup (animation + music 100%) → Writing (facecam + Notion, music 20–30%) → Gaming (facecam + game) → Cooldown (animation + music 100%) → Ambient Loop (offline). One-button via Stream Deck.
+**OBS Scenes:** Outside Inn Warmup (Holdt animation + LofiLoop.wav 100% + countdown timer + patron roll) → Writing Stream (facecam + Notion, music 20–30%) → Gaming Stream (facecam + game, music 20–30% or off) → Cooldown (Holdt animation + music 100%). All one-button via Stream Deck. The 70:07 bookend opens and closes every live stream. 24/7 ambient radio deferred until headless OBS on VPS + deeper content catalog justify it (~April 2026+). VPS infrastructure stays available.
 
-**Uptime:** 99.9% target — wired primary + 5G failover + Speedify bonding + battery backup.
+**Uptime:** 99.9% target — wired primary + 5G failover at router level + battery backup on laptop and router. Floor: laptop + webcam + mic + 10 Mbps upload on ethernet = reliable stream.
+
+**Day-one validation (Mar 3):** Core stack performed. 11h39m radio run without a drop. Live stream went out on YouTube and Twitch via Restream. Four issues encountered and resolved in real time (YouTube stream key reset, Restream channel toggle, FFmpeg suspension, YouTube Studio dashboard confusion — all documented in OIS Hardware & Software Master).
 
 ## Tech & Operational Advantage
 
 Evan's background eliminates contractor needs for ecommerce, streaming infra, analytics, and tooling — saving est. $2,000–5,000/month vs. non-technical founder.
 
 - **Ecommerce:** 8+ payment types at SKIMS, OMS/ERP/WMS architecture, 600k+ order-day scale build-vs-buy decisions
-- **Streaming:** Full OBS/Restream/Speedify stack self-configured. 99.6% uptime experience at SKIMS peak events.
+- **Streaming:** Full OBS/Restream stack self-configured. Router-level dual-WAN failover. 99.6% uptime experience at SKIMS peak events. Day-one tech issues diagnosed and resolved without outside help.
 - **Data:** Built Watchtower (CFO dashboard), Apollo (CX platform, 94% error reduction), Lighthouse (retail ops)
-- **AI:** Netomi chatbot (16% ticket reduction), GitHub Copilot knowledge base (18% faster engineering)
+- **AI:** Netomi chatbot (16% ticket reduction), GitHub Copilot knowledge base (18% faster engineering). Claude pair-programming used to build animation pipeline, countdown timer, and patron roll overlay in 48 hours pre-launch.
 - **Agile:** Scrum from scratch at SKIMS, team ~5→40+, Jira for 116 users, 3 Notion workspaces → 1
 - **Expert networks:** GLG, AlphaSights, Guidepoint at $399/hr — same expertise deployed on OIS at zero cost
 
@@ -364,12 +387,12 @@ Evan's background eliminates contractor needs for ecommerce, streaming infra, an
 | Certificate of Publication | ⏳ |
 | Trademark #99627141 | ⏳ In Examination |
 | 2025 Expense Ledger | ✅ |
-| Carson Contract | ⏳ Terms need to go out |
+| Carson Contract | ⏳ Sent Mar 1 — awaiting signature. Album offer also sent. |
 | Marwan Contract | ⏳ DocuSign Feb 25 — pending signature |
-| Luiz Contract | ⏳ DocuSign Feb 25 — pending signature |
+| Luiz Contract | ✅ Signed Mar 2, 2026 |
 | Expert Network Master | ✅ |
 | Lo-Fi Revenue Estimate | ✅ (Feb 26, 2026) |
 
 ---
 
-*Updated Feb 27, 2026. Source: OIStudiosLegal02.21.2026, EIW2025Expenses, Luiz/Marwan revised contracts (Feb 25), Chase account analysis (Feb 27).*
+*Updated Mar 3, 2026 — post-Broadcast Alpha. Source: OIStudiosLegal02.21.2026, EIW2025Expenses, Luiz contract signed Mar 2, Carson contract sent Mar 1, Brand Bible Mar 3, OIS Hardware & Software Master Mar 3, first broadcast session log.*
